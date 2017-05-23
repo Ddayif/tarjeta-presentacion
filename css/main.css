@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Arimo', sans-serif;
+	}
+
+	#foto{
+		position: absolute;
+		background: url("../img/tarjeta.jpg");
+		background-size: cover;
+		background-position: center;
+		padding: 131px 0px;
+		width: 543px;
+		bottom: 286px;
+
+	}
+
+
+#triangulo{
+	position: absolute;
+	width: 190px;
+	height: 0;
+	border-bottom: 262px solid #2A2723;
+	border-left: 177px solid transparent;
+	bottom: 286px;
+	right: 650px;
+}
+
+#logo1{
+	position: absolute;
+		background: url("../img/Laboratoria_Isotipo CodeAcademy.png");
+		background-size: cover;
+		background-position: center;
+		padding: 26px 6px;
+		width: 50px;
+		bottom: 286px;
+		right: 739px;
+	}
+
+.texto{
+	font-size: 14px;
+    color: whitesmoke;
+    right: 260px;
+    left: 260px;
+
+}
+
+#textito{
+	position: absolute;
+	font-size: 14px;
+    color: whitesmoke;
+    right: 273px;
+    left: 415px;
+    bottom: 417px;
+}
+
+#logo2{
+	position: absolute;
+		background: url("../img/Laboratoria_logo.png");
+		background-size: cover;
+		background-position: center;
+		padding: 30px 6px;
+		width: 156px;
+		bottom: 494px;
+		right: 393px;
+		left: 166px;
+}
+.text{
+	position: absolute;
+	font-size: 14px;
+    color: whitesmoke;
+    right: 273px;
+    left: 383px;
+    bottom: 326px;
+}
